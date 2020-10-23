@@ -1,14 +1,15 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "2020-10-23T00:15:17.914Z": {
+    "Internet and Productivty": 5,
+    "Office Applications": 3,
+    "Development": 4,
+    "OS": 0.7
+  },
+  "User Activity": {
+    "Longest Duration": {
+      "Total Hours": 2,
+      "Start": "9:32am",
+      "End": "11:32am"
+    }
   }
 }
